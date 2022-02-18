@@ -50,7 +50,7 @@
 						"referenceName": "Parquet1",
 						"type": "DatasetReference",
 						"parameters": {
-							"folder": "testeslql",
+							"folder": "testesql",
 							"fileName": "table.parquet"
 						}
 					}
